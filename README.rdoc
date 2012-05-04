@@ -1,3 +1,4 @@
+
 This is an extension of a super simple Rails app that was built as a class demonstration in the spring of 2012.  The proverbs example now allows the user to add photos to the site and we will expand this to also include articles.  The lab will keep us fresh on Rails concepts we've learned so far, but the real challenge will be that someone else will be adding this functionality and you will have to merge it into your project via 'pull requests' (don't worry -- this will be explained more in the lab.)  If time allows, we will also add a 'star rating' system to the photos section.
 
 Twitter bootstrap is used to give the style a basic facelift, but we are using a static version with the asset pipeline turned off so that PC users can use this code base as easily as Linux and Mac users.
